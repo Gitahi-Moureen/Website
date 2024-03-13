@@ -1,0 +1,121 @@
+
+    
+    
+@media screen {
+
+    #Container{
+        margin: auto;
+    }
+    #Navbar{
+        display: flex;
+        margin-left: 6%;
+        max-width: 480px;
+        /* min-width: 990px; */
+    }
+    
+}
+
+@media screen { 
+    #Navbar{
+        display: flex;
+        margin-left: 6%;
+        max-width: 480px;
+        /* min-width: 990px; */
+
+}
+}
+
+@media screen {
+    
+#Navbar{
+    display: flex;
+    margin-left: 6%;
+    max-width: 480px;
+    /* min-width: 990px; */
+
+}
+}
+@media screen {
+    #About{
+        display: flex;
+        margin-left: 40%;
+        gap: 10%; 
+        max-width: 480px;
+        /* min-width: 990px; */
+}
+}
+    
+@media screen {
+    #Simplify{
+        display: flex;
+        /* margin-left: 10%; */
+
+}
+}
+
+
+@media(max-width){
+
+#Images1{
+    margin-left: 20%;
+    margin-top: 2%;
+    max-width: 480px;
+
+}
+@media screen {
+}
+#Images1{
+    margin-left: 20%;
+    margin-top: 2%;
+    max-width: 480px;
+}   
+}
+
+
+#Images1{
+    margin-left: 20%;
+    margin-top: 2%;
+}
+button{
+    color: white;
+    background-color: black;
+    width: 80%;
+    height: 10%;
+}
+
+#Image2{
+    margin-left: 30%;
+}
+#clothes{
+    display: flex;
+    gap: 1%;
+    /* margin-left: 50%; */
+}
+
+#Display{
+    /* display: flex; */
+  
+    margin-bottom: 70%;
+}
+
+
+#Sales{
+    display: flex;
+
+}
+
+#New{
+    display: flex;
+}
+#Container2{
+    display: flex;
+}
+#Chair{
+    margin-left: 10%;
+}
+#clothe2{
+    display: flex;
+    gap: 1%;
+}
+
+  
